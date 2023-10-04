@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **terMinator1812003/terMinator1812003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
