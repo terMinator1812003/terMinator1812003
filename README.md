@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Harsh Nayak</h1>
+<h3 align="center">A dedicated software developer and data analyst skilled in deriving meaningful insights from complex datasets and creating innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terminator1812003&label=Profile%20views&color=0e75b6&style=flat" alt="terminator1812003" /> </p>
+
+- 📫 How to reach me **harshnayak580@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Lbi394qSJORVQt3zle0thdpQ3hPtrmP9/view?usp=sharing](https://drive.google.com/file/d/1Lbi394qSJORVQt3zle0thdpQ3hPtrmP9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +33,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terminator1812003&show_icons=true&locale=en&layout=compact" alt="terminator1812003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terminator1812003&" alt="terminator1812003" /></p>
+
 
